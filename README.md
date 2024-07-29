@@ -1,2 +1,8 @@
 # DH_140_Final
-This repository is meant to track my DH 140 Final project. 
+
+Maintained by K. Chokshi
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/krishac1/DH_140_Final/main)
+
+* Description of Topic
+* Questions of Interest
