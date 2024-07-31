@@ -1,0 +1,59 @@
+Grade Stream,General Service Grade Equivalent,Grade ,Female,Percentage of Females in Grade,Male,Percentage of Males in Grade,Total
+General Service,SEC,SECRETARY GENERAL,0,0.00%,1,100.00%,1
+General Service,ASC,ASSISTANT SECRETARY,2,33.33%,4,66.67%,6
+General Service,PO,PRINCIPAL,4,11.11%,32,88.89%,36
+General Service,AP,ASSISTANT PRINCIPAL,32,32.00%,68,68.00%,100
+General Service,AO,ADMINISTRATIVE OFFICER,4,50.00%,4,50.00%,8
+General Service,HEO,HIGHER EXECUTIVE OFFICER,61,53.51%,53,46.49%,114
+General Service,HEO,PERSONAL ASSISTANT,1,100.00%,0,0.00%,1
+General Service,EO,EXECUTIVE OFFICER,83,57.64%,61,42.36%,144
+General Service,EO,PERSONAL SECRETARY,1,100.00%,0,0.00%,1
+General Service,EO,SECRETARIAL ASSISTANT,2,66.67%,1,33.33%,3
+General Service,EO,STAFF OFFICER,25,75.76%,8,24.24%,33
+General Service,CO,CLERICAL OFFICER,246,85.71%,41,14.29%,287
+General Service,CO,CLERICAL OFF TEMPORARY,2,100.00%,0,0.00%,2
+General Service,CO,VISUALLY IMPAIRED TELEPHONIST,2,66.67%,1,33.33%,3
+General Service,SVO,CLEANER,9,100.00%,0,0.00%,9
+General Service,SVO,CLEANER - PART TIME,1,100.00%,0,0.00%,1
+General Service,SVO,SERVICES ATTENDANT,5,45.45%,6,54.55%,11
+General Service,SVO,SERVICES OFFICER,4,10.81%,33,89.19%,37
+General Service,SVO,SUPERINTENDENT OF CLEANERS,1,100.00%,0,0.00%,1
+Professional & Technical,ASC,DIRECTOR METEORLOGICAL SERVICE,0,0.00%,1,100.00%,1
+Professional & Technical,ASC,LEGAL ADVISOR,0,0.00%,1,100.00%,1
+Professional & Technical,ASC,INSPECTOR OF AUDITS,0,0.00%,1,100.00%,1
+Professional & Technical,PO,ASST DIRECTOR MET SERVICES,0,0.00%,3,100.00%,3
+Professional & Technical,PO,PRINCIPAL ADVISOR HIGHER LEVEL,0,0.00%,6,100.00%,6
+Professional & Technical,PO,PRINCIPAL AUDITOR,0,0.00%,4,100.00%,4
+Professional & Technical,PO,SENIOR ADVISER,0,0.00%,14,100.00%,14
+Professional & Technical,PO,SENIOR ASSISTANT FIRE ADVISOR,0,0.00%,2,100.00%,2
+Professional & Technical,PO,SENIOR METEOROLOGIST,0,0.00%,5,100.00%,5
+Professional & Technical,AP,ARCHITECTURAL/ENG INSPECTOR,1,5.26%,18,94.74%,19
+Professional & Technical,AP,ASSISTANT FIRE ADVISOR,0,0.00%,2,100.00%,2
+Professional & Technical,AP,AUDITOR ENVIRONMENT,4,20.00%,16,80.00%,20
+Professional & Technical,AP,ENGINEER GRADE 1 CIVIL,1,25.00%,3,75.00%,4
+Professional & Technical,AP,INSPECTOR GRADE 2,0,0.00%,1,100.00%,1
+Professional & Technical,AP,INSPECTOR MECHANICAL,0,0.00%,1,100.00%,1
+Professional & Technical,AP,METEOROLOGIST,8,25.81%,23,74.19%,31
+Professional & Technical,AP,PRINCIPAL METEOROLOGICAL OFF,0,0.00%,7,100.00%,7
+Professional & Technical,AP,QUANTITY SURVEYOR GRADE 1,0,0.00%,3,100.00%,3
+Professional & Technical,AP,SENIOR ARCHAEOLOGIST,0,0.00%,1,100.00%,1
+Professional & Technical,AP,SUPERVISING HOUSING INSPECTOR,1,14.29%,6,85.71%,7
+Professional & Technical,AO,ADMINISTRATIVE OFFICER,1,100.00%,0,0.00%,1
+Professional & Technical,AO,ARCHAEOLOGIST,1,100.00%,0,0.00%,1
+Professional & Technical,AO,ARCHITECT,1,100.00%,0,0.00%,1
+Professional & Technical,AO,ASSISTANT AUDITOR ENVIRONMENT,1,33.33%,2,66.67%,3
+Professional & Technical,AO,ENGINEER GRADE 3 CIVIL,0,0.00%,1,100.00%,1
+Professional & Technical,AO,HOUSING INSPECTOR,2,33.33%,4,66.67%,6
+Professional & Technical,AO,SENIOR BUILDING INSPECTOR,0,0.00%,6,100.00%,6
+Professional & Technical,AO,SENIOR VEHICLE TESTER,0,0.00%,1,100.00%,1
+Professional & Technical,AO,SUPERVISORY DRIVER TESTER,0,0.00%,4,100.00%,4
+Professional & Technical,HEO,AUDITOR,0,0.00%,1,100.00%,1
+Professional & Technical,HEO,CHIEF DRIVER TESTER,0,0.00%,1,100.00%,1
+Professional & Technical,HEO,LIBRARIAN,1,100.00%,0,0.00%,1
+Professional & Technical,HEO,SENIOR METEOROLOGICAL OFFICER,2,4.26%,45,95.74%,47
+Professional & Technical,HEO,TECHNICAL GRADES LEVEL 4,0,0.00%,2,100.00%,2
+Professional & Technical,EO,BUILDING INSPECTOR,0,0.00%,5,100.00%,5
+Professional & Technical,EO,DRIVER TESTER,7,6.54%,100,93.46%,107
+Professional & Technical,EO,DRIVER TESTER - CONTRACT,0,0.00%,4,100.00%,4
+Professional & Technical,EO,METEOROLOGICAL OFFICER,12,14.29%,72,85.71%,84
+Professional & Technical,EO,VEHICLE TESTER,0,0.00%,3,100.00%,3
