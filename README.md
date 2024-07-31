@@ -1,4 +1,4 @@
-# DH_140_Final
+# DH 140 Final Project Repoository
 
 Maintained by K. Chokshi
 
